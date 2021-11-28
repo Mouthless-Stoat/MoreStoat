@@ -1,0 +1,21 @@
+{
+    "name": "ModdedStoatHonorary",
+    "displayedName": "Honorary Stoat",
+    "description": "Perhaps not a stoat in form, but one in spirit.",
+    "metaCategories": [
+      "ChoiceNode",
+      "TraderOffer"
+    ],
+    "cardComplexity": "Simple",
+    "baseAttack": 1,
+    "baseHealth": 2,
+    "cost": 1,
+    "tribes": [
+      "Canine"
+    ],
+    "customAbilities": [],
+    "abilities": [
+      "DrawCopyOnDeath"
+    ],
+    "texture": "HonoraryStoat.png"
+}

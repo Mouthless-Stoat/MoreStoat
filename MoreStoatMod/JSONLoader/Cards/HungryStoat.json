@@ -1,0 +1,21 @@
+{
+    "name": "ModdedStoatHungry",
+    "displayedName": "Hungry Stoat",
+    "description": "This Stoat is starved, but not weakened. It will eat whatever opposed it.",
+    "metaCategories": [
+      "ChoiceNode",
+      "TraderOffer"
+    ],
+    "cardComplexity": "Simple",
+    "baseAttack": 1,
+    "baseHealth": 3,
+    "cost": 1,
+    "tribes": [
+      "Canine"
+    ],
+    "customAbilities": [],
+    "abilities": [
+      "Deathtouch"
+    ],
+    "texture": "HungryStoat.png"
+}

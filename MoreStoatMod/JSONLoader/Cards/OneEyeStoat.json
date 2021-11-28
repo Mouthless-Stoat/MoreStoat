@@ -1,0 +1,22 @@
+{
+    "name": "ModdedStoatOneEye",
+    "displayedName": "One Eye Stoat",
+    "description": "fast, but not fast enough.",
+    "metaCategories": [
+      "ChoiceNode",
+      "TraderOffer"
+    ],
+    "cardComplexity": "Simple",
+    "baseAttack": 1,
+    "baseHealth": 2,
+    "cost": 1,
+    "tribes": [
+      "Canine"
+    ],
+    "customAbilities": [],
+    "abilities": [
+      "Strafe",
+      "TripleBlood"
+    ],
+    "texture": "OneEyeStoat.png"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ModdedStoatWall",
+    "displayedName": "Wall Stoat",
+    "description": "This weird stoat builds walls to store its food but they can be used for a defense.",
+    "metaCategories": [
+      "ChoiceNode",
+      "TraderOffer"
+    ],
+    "cardComplexity": "Simple",
+    "baseAttack": 1,
+    "baseHealth": 4,
+    "cost": 1,
+    "tribes": [
+      "Canine"
+    ],
+    "customAbilities": [],
+    "abilities": [
+      "CreateDams"
+    ],
+    "texture": "WallStoat.png"
+}

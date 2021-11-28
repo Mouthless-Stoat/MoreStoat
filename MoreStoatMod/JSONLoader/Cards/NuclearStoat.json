@@ -1,0 +1,22 @@
+{
+    "name": "ModdedStoatNuclear",
+    "displayedName": "Nuclear Stoat",
+    "description": "Hit quite hard ... once. It a Nuke what do you expect?",
+    "metaCategories": [
+      "ChoiceNode",
+      "TraderOffer"
+    ],
+    "cardComplexity": "Simple",
+    "baseAttack": 4,
+    "baseHealth": 1,
+    "cost": 1,
+    "tribes": [
+      "Canine"
+    ],
+    "customAbilities": [],
+    "abilities": [
+      "Brittle",
+      "Flying"
+    ],
+    "texture": "NuclearStoat.png"
+}

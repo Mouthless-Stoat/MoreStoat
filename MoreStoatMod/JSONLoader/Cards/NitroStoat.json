@@ -1,0 +1,21 @@
+{
+    "name": "ModdedStoatNitro",
+    "displayedName": "Nitro Stoat",
+    "description": "A Stoat that has achieved flight. It is one with great potential.",
+    "metaCategories": [
+      "ChoiceNode",
+      "TraderOffer"
+    ],
+    "cardComplexity": "Simple",
+    "baseAttack": 1,
+    "baseHealth": 2,
+    "cost": 1,
+    "tribes": [
+      "Canine"
+    ],
+    "customAbilities": [],
+    "abilities": [
+      "Flying"
+    ],
+    "texture": "NitroStoat.png"
+}

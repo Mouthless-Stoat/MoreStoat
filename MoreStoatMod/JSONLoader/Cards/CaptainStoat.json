@@ -1,0 +1,21 @@
+{
+	"name": "ModdedStoatCaptain",
+	"displayedName": "Captain Stoat",
+	"description": "Founder and strongest, his friends are often in tow behind him.",
+	"metaCategories": [
+	  "ChoiceNode",
+	  "TraderOffer"
+	],
+	"cardComplexity": "Simple",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"cost": 2,
+	"tribes": [
+	  "Canine"
+	],
+	"customAbilities": [],
+	"abilities": [
+	  "Sacrificial"
+	],
+	"texture": "CaptainStoat.png"
+}

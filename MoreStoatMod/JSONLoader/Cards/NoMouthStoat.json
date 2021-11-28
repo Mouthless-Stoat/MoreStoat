@@ -1,0 +1,22 @@
+{
+    "name": "ModdedStoatNoMouth",
+    "displayedName": "No Mouth Stoat",
+    "description": "He doesn't have a mouth, he can't attack. What do you expect?",
+    "metaCategories": [
+      "ChoiceNode",
+      "TraderOffer"
+    ],
+    "cardComplexity": "Simple",
+    "baseAttack": 0,
+    "baseHealth": 3,
+    "bonesCost": 3,
+    "tribes": [
+      "Canine"
+    ],
+    "customAbilities": [],
+    "abilities": [
+      "RandomConsumable",
+      "BuffNeighbours"
+    ],
+    "texture": "NoMouthStoat.png"
+  }

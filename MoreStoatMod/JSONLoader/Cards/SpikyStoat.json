@@ -1,0 +1,25 @@
+{
+  "name": "ModdedStoatSpiky",
+  "displayedName": "spiky Stoat",
+  "description": "Fearsome and but friendly. Keep him under control, give too much space and he might get cocky.",
+  "metaCategories": [
+    "TraderOffer",
+    "Rare"
+  ],
+  "cardComplexity": "Simple",
+  "baseAttack": 1,
+  "baseHealth": 7,
+  "cost": 3,
+  "tribes": [
+    "Canine"
+  ],
+  "appearanceBehaviour": [
+    "RareCardBackground"
+  ],
+  "customAbilities": [],
+  "abilities": [
+    "Sharp",
+    "Deathtouch"
+  ],
+  "texture": "SpikyStoat.png"
+}
